@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to WhereToDanceSD.com
 
-You can use the [editor on GitHub](https://github.com/flashjmg/DanceCalendarSD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WhereToDanceSD.com is a list of all the salsa, bachata, and kizomba social dancing events happening around San Diego, CA. 
 
 ### Markdown
 
